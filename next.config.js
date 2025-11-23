@@ -1,0 +1,1 @@
+/** @type {import('next').NextConfig} */\nconst nextConfig = {\n  reactStrictMode: true,\n  experimental: {\n    appDir: false\n  }\n}\nmodule.exports = nextConfig

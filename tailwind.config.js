@@ -1,0 +1,1 @@
+module.exports = {\n  content: [\n    "./pages/**/*.{ts,tsx}",\n    "./components/**/*.{ts,tsx}"\n  ],\n  theme: {\n    extend: {\n      colors: {\n        primary: '#0f1724',\n        accent: '#ff3b30'\n      },\n      borderRadius: {\n        xl: '12px'\n      }\n    }\n  },\n  plugins: []\n}
